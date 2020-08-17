@@ -11,5 +11,3 @@ The contract also mints the tokens automatically and distributes them to buyers 
 In order to accomplish all of this, I inherited Crowdsale, CappedCrowdsale, TimedCrowdsale, RefundableCrowdsale, and MintedCrowdsale from OpenZeppelin. 
 
 Lastly, the crowdsale is conducted on the Kovan or Ropsten testnet in order to get a real-world pre-production test in.
-
-<span style="background-color: #FFFF00">Marked text</span>
