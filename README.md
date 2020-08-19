@@ -4,7 +4,7 @@ Using Remix, I designed an ERC20 coin called "PupperCoin." I used the standard E
 
 After creating the ERC20 coin, I launched a hypothetical crowdsale of the PupperCoin token to fund the network development. 
 
-The crowdsales is allowed to raise a maximum of 300 Ether and will run for 24 weeks. The crowdsale contract will manage the entire process, allowing users to to send ETH and get PupperCoin back. 
+The crowdsale is allowed to raise a maximum of 300 Ether and will run for 24 weeks. The crowdsale contract will manage the entire process, allowing users to to send ETH and get PupperCoin back. 
 
 The contract also mints the tokens automatically and distributes them to buyers in one transaction. 
 
